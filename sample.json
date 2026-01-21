@@ -1,5 +1,12 @@
-{
-    "name": "Sample Project",
-    "version": "1.0.0",
-    "description": "This is a sample JSON file for cool feature."
-}
+[
+    {
+        "name": "Sample Project",
+        "version": "1.0.0",
+        "description": "This is a sample JSON file for cool feature."
+    },
+    {
+        "name": "Another Project",
+        "version": "2.1.0",
+        "description": "This is another sample JSON file for testing."
+    }
+]
