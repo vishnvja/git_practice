@@ -1,5 +1,8 @@
 [
     {
+        "name": "Entry to fix the bug"
+    },
+    {
         "name": "Sample Project",
         "version": "1.0.0",
         "description": "This is a sample JSON file for cool feature."
