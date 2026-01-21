@@ -1,0 +1,2 @@
+# About this project
+This project was created to learn the basic git functions and commands. It includes simple examples of how to create a repository, make commits, create branches, and merge changes.
